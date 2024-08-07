@@ -18,12 +18,12 @@ cd ./MD5-ToolBox
 ```
 - Execute the main.py file
 ```sh
-python3 ./main.py {-hash} {-str}  {-m}
+python3 ./main.py {-hash} {-m} {-w}
 
 #Or
 
 chmod u+x ./main.py
-./main.py {-hash} {-str}  {-m}
+./main.py {-hash} {-m} {-w}
 ```
 - Select the module you want use by typing:
 1. Dictionary brute force
